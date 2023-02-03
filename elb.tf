@@ -23,4 +23,4 @@ resource "aws_elb" "bar" {
   tags = {
     Name = "raham-tf-elb"
   }
-}i
+}
